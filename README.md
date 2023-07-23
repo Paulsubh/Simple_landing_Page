@@ -1,1 +1,1 @@
-# Simple_landing_Page
+Simple Coffee shop landing page using HTML,, CSS &Javascript.
